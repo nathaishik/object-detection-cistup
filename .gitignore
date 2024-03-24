@@ -1,0 +1,5 @@
+.venv
+.vscode
+node_modules
+haar_cascade
+test
